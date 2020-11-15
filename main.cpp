@@ -6,7 +6,7 @@ int main()
     int arr[10],n,beg,en,mid;
     cout<<"Enter n"<<endl;
     cin>>n;
-    cout<<"Enter the elements list"<<endl;
+    cout<<"Enter the elements list"<<;
     for(int i=0;i<n;i++)
     {
         cin>>arr[i];
@@ -29,7 +29,7 @@ int main()
     }
  if(arr[mid]==element)
  {
-     cout<<"Element found"<<mid;
+     cout<<"Element found"<<mid<<endl;
  }
  else
  {
